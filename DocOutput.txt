@@ -1,0 +1,4 @@
+1001 Dr.Sharif Orthopedic Monday
+1002 Dr.Ruma Gynecology Friday
+1003 Dr.Tasnim Medicine Sunday
+1004 Dr.Mira ChildSpecialist Tuesday
